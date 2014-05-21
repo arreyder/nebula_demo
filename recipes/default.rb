@@ -1,4 +1,4 @@
-all = search(:node, "name:crr-tst0")
+all = search(:node, "name:crr*")
 test = search(:node, "run_list:*role\\[cassandra\\]*")
 
 template "/tmp/foo" do
