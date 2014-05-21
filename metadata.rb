@@ -1,0 +1,5 @@
+maintainer       "Me"
+maintainer_email "YOUR_EMAIL"
+license          "Apache 2.0"
+description      "Installs/Configures nedula_demo"
+version          "0.0.1"
